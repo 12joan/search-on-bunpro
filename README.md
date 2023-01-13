@@ -1,13 +1,13 @@
-# Search on WaniKani
+# Search on Bunpro
 
-Search for selected text on WaniKani
+Search for selected text on Bunpro
 
 ## Quick start
 
-1. Install the [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/search-on-wanikani/)
+1. Install the [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/search-on-bunpro/)
 2. Select any text on a web page
 3. Right-click to open the context menu
-4. Choose either "Search Kanji on WaniKani" or "Search Vocabulary on WaniKani"
+4. Click "Search Grammar on Bunpro"
 
 ## Development
 
@@ -34,3 +34,8 @@ web-ext build
 ```
 
 See the [web-ext documentation](https://github.com/mozilla/web-ext#documentation) for more information.
+
+## See also
+
+- [Search on Kitsun.io](https://github.com/Ollie2304/Search-on-Kitsun.io)
+- [Search on WaniKani](https://github.com/12joan/search-on-wanikani)

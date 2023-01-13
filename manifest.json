@@ -1,10 +1,10 @@
 {
     "manifest_version": 2,
-    "name":"Search on WaniKani",
-    "description": "Search for the selected kanji or vocabulary on WaniKani; based on Ollie's Search-on-Kitsun.io",
+    "name":"Search on Bunpro",
+    "description": "Search for the selected grammar on Bunpro; based on Ollie's Search-on-Kitsun.io",
     "version": "1.2",
     "author": "Ollie, Royalnb, Joe Anderson",
-    "homepage_url": "https://github.com/12joan/search-on-wanikani",
+    "homepage_url": "https://github.com/12joan/search-on-bunpro",
     "icons": {
         "48": "icons/icon48.png",
         "64": "icons/icon64.png",
