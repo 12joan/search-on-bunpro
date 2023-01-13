@@ -7,7 +7,7 @@ Search for selected text on Bunpro
 1. Install the [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/search-on-bunpro/)
 2. Select any text on a web page
 3. Right-click to open the context menu
-4. Click "Search Grammar on Bunpro"
+4. Click "Search on Bunpro"
 
 ## Development
 

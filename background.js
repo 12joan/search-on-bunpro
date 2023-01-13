@@ -1,6 +1,6 @@
 browser.contextMenus.create({
-  id: "BunproGrammarSearch",
-  title: "Search Grammar on Bunpro",
+  id: "BunproSearch",
+  title: "Search on Bunpro",
   contexts: ["selection"],
   "icons": {
     "16": "icons/icon16.png",
