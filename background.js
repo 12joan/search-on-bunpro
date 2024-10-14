@@ -10,6 +10,6 @@ browser.contextMenus.create({
 
 browser.contextMenus.onClicked.addListener((info, tab) => {
   const query = encodeURIComponent(info.selectionText.trim());
-  const url = `https://bunpro.jp/grammar_points/${query}`;
+  const url = `https://bunpro.jp/search?query=${query}`;
   browser.tabs.create({ url });
 });
